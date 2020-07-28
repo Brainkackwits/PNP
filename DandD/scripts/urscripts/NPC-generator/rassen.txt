@@ -1,0 +1,11 @@
+Drachengeborene
+Elfen
+Halblinge
+Orks
+Halbelfen
+Menschen
+Zwerge
+Drow
+Gnome
+Goblins
+Kobold

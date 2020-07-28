@@ -1,0 +1,12 @@
+goldene/r
+schwarze/r
+weisse/r
+silbern/e
+koenigliche/r
+schaebige/r
+dunkle/r
+warme/r
+rostige/r
+harte/r
+schmutzige/r
+tauben
