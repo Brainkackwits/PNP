@@ -1,7 +1,0 @@
-Sword
-Bow
-Deager
-HandAxe
-Stab
-Battleaxe
-Javelin
